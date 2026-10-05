@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 개인 자료 (교재 PDF·슬라이드)
+materials/
